@@ -29,8 +29,7 @@ const About = props => {
               popular frameworks like ReactJS.
             </p>
             <p>
-              For the back-end I also work with Javascript (NodeJS, Express, MongoDB, etc). But, of
-              course, whenever the project requires PHP, I do PHP as well (Wordpress, Laravel, etc).
+              For the back-end I work with NodeJS, Express, MongoDB, etc.
             </p>
           </div>
         </article>
